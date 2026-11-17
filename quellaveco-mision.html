@@ -55,7 +55,7 @@ body::after {
   display: flex; flex-direction: column;
   align-items: center; justify-content: center;
   gap: 0;
-  transition: opacity 1.4s ease;
+  transition: opacity .9s ease;
   pointer-events: none;
 }
 #intro.out { opacity: 0; pointer-events: none }
@@ -65,7 +65,7 @@ body::after {
   font-size: 9px; font-weight: 300;
   letter-spacing: .55em; text-transform: uppercase;
   color: var(--dim); opacity: 0;
-  animation: slow-in .9s ease 1.6s both;
+  animation: slow-in .6s ease 1.1s both;
   margin-bottom: 36px;
 }
 .i-title {
@@ -73,31 +73,31 @@ body::after {
   letter-spacing: .18em; text-transform: uppercase;
   color: var(--text);
   line-height: 1; text-align: center;
-  opacity: 0; animation: slow-in 1.4s ease 2.6s both;
+  opacity: 0; animation: slow-in .9s ease 1.7s both;
   text-shadow: 0 0 60px rgba(200,150,30,.18);
 }
 .i-sep {
   width: 0; height: .5px; margin: 24px 0 20px;
   background: linear-gradient(90deg, transparent, var(--dim), transparent);
-  opacity: 0; animation: sep-in 1.2s ease 3.2s both;
+  opacity: 0; animation: sep-in .8s ease 2.1s both;
 }
 .i-sub {
   font-size: 11px; font-weight: 300;
   letter-spacing: .42em; text-transform: uppercase;
   color: var(--dim); opacity: 0;
-  animation: slow-in .8s ease 3.8s both;
+  animation: slow-in .5s ease 2.5s both;
 }
 .i-coord {
   font-size: 9px; font-weight: 100;
   letter-spacing: .3em; color: var(--dim2);
   margin-top: 10px;
-  opacity: 0; animation: slow-in .7s ease 4.6s both;
+  opacity: 0; animation: slow-in .5s ease 3.1s both;
 }
 .i-cta {
   font-size: 9px; font-weight: 300;
   letter-spacing: .3em; color: var(--dim2);
   margin-top: 56px;
-  opacity: 0; animation: pulse-cta 2.4s ease 7.0s infinite;
+  opacity: 0; animation: pulse-cta 1.6s ease 4.7s infinite;
 }
 
 @keyframes slow-in {
@@ -127,7 +127,7 @@ body::after {
   position: fixed; inset: 0; z-index: 20;
   display: flex; flex-direction: column;
   align-items: center; justify-content: center;
-  opacity: 0; transition: opacity 1.2s ease;
+  opacity: 0; transition: opacity .8s ease;
   padding: max(16px, env(safe-area-inset-top,0px))
            max(16px, env(safe-area-inset-right,0px))
            max(16px, env(safe-area-inset-bottom,0px))
@@ -376,10 +376,10 @@ function goMain() {
     startVid();
     startVidGrain();
     setTimeout(function() { intro.hidden = true; }, 1400);
-  }, 180);
+  }, 120);
 }
 
-setTimeout(goMain, 10000);
+setTimeout(goMain, 6700);
 document.getElementById('intro').addEventListener('click', goMain);
 
 // ── VIDEO ──────────────────────────────────────────────────────────────

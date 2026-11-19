@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" modified="2026-04-27T00:00:00.000Z" agent="Claude" version="21.0.0" type="device">
   <diagram id="flujo-aprobacion-planos" name="Flujo Aprobación Planos THSSB">
-    <mxGraphModel dx="1500" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="580" math="0" shadow="0" background="#F8FAFC">
+    <mxGraphModel dx="1500" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="580" math="0" shadow="0" background="#FFFFFF">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,12 +10,12 @@
         
 
         
-        <mxCell id="swim_main" value="RESPONSABLES POR FRENTE" style="swimlane;startSize=30;fillColor=#1E3A5F;strokeColor=#1E3A5F;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=11;fontStyle=1;swimlaneLine=1;" vertex="1" parent="1">
+        <mxCell id="swim_main" value="RESPONSABLES POR FRENTE" style="swimlane;startSize=30;swimlaneLine=1;fillColor=#1E3A5F;strokeColor=#1E3A5F;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=10;fontStyle=1;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="25" width="410" height="315" as="geometry" />
         </mxCell>
 
         
-        <mxCell id="lane_f2" value="FRENTE 2" style="swimlane;startSize=0;fillColor=#1E3A5F;strokeColor=#1E3A5F;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=11;fontStyle=1;swimlaneLine=1;" vertex="1" parent="swim_main">
+        <mxCell id="lane_f2" value="FRENTE 2" style="swimlane;startSize=0;swimlaneLine=1;fillColor=#1E3A5F;strokeColor=#1E3A5F;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=10;fontStyle=1;horizontal=0;" vertex="1" parent="swim_main">
           <mxGeometry y="30" width="410" height="95" as="geometry" />
         </mxCell>
         <mxCell id="alessandra" value="ALESSANDRA FERNANDEZ" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;fontStyle=0;fillColor=#F8FAFC;strokeColor=#CBD5E1;fontColor=#374151;" vertex="1" parent="lane_f2">
@@ -26,7 +26,7 @@
         </mxCell>
 
         
-        <mxCell id="lane_f1" value="FRENTE 1" style="swimlane;startSize=0;fillColor=#1E3A5F;strokeColor=#1E3A5F;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=11;fontStyle=1;swimlaneLine=1;" vertex="1" parent="swim_main">
+        <mxCell id="lane_f1" value="FRENTE 1" style="swimlane;startSize=0;swimlaneLine=1;fillColor=#1E3A5F;strokeColor=#1E3A5F;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=10;fontStyle=1;horizontal=0;" vertex="1" parent="swim_main">
           <mxGeometry y="125" width="410" height="95" as="geometry" />
         </mxCell>
         <mxCell id="luis" value="LUIS BUSTAMANTE" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;fontStyle=0;fillColor=#F8FAFC;strokeColor=#CBD5E1;fontColor=#374151;" vertex="1" parent="lane_f1">
@@ -37,7 +37,7 @@
         </mxCell>
 
         
-        <mxCell id="lane_f3" value="FRENTE 3" style="swimlane;startSize=0;fillColor=#1E3A5F;strokeColor=#1E3A5F;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=11;fontStyle=1;swimlaneLine=1;" vertex="1" parent="swim_main">
+        <mxCell id="lane_f3" value="FRENTE 3" style="swimlane;startSize=0;swimlaneLine=1;fillColor=#1E3A5F;strokeColor=#1E3A5F;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=10;fontStyle=1;horizontal=0;" vertex="1" parent="swim_main">
           <mxGeometry y="220" width="410" height="95" as="geometry" />
         </mxCell>
         <mxCell id="mayra" value="MAYRA LOAYZA" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;fontStyle=0;fillColor=#F8FAFC;strokeColor=#CBD5E1;fontColor=#374151;" vertex="1" parent="lane_f3">
@@ -57,12 +57,12 @@
         </mxCell>
 
         
-        <mxCell id="aprobacion" value="APROBACIÓN DE PLANOS POR ESPECIALISTAS&lt;br/&gt;&lt;font style=&quot;font-size:9px;&quot;&gt;(ES NECESARIO LA FIRMA DE TODOS LOS ESPECIALISTAS)&lt;/font&gt;" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;fontStyle=0;fillColor=#F8FAFC;strokeColor=#CBD5E1;fontColor=#374151;" vertex="1" parent="1">
+        <mxCell id="aprobacion" value="APROBACIÓN DE PLANOS POR ESPECIALISTAS&lt;br/&gt;&lt;font style=&quot;font-size:9px;&quot;&gt;(ES NECESARIO LA FIRMA DE TODOS LOS ESPECIALISTAS)&lt;/font&gt;" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;fontStyle=1;fillColor=#FFFFFF;strokeColor=#CBD5E1;fontColor=#374151;" vertex="1" parent="1">
           <mxGeometry x="830" y="143" width="220" height="88" as="geometry" />
         </mxCell>
 
         
-        <mxCell id="especialistas" value="&lt;b&gt;KATHERINE SIHUAY&lt;/b&gt; — Especialista de Arquitectura&lt;br/&gt;&lt;b&gt;JUAN BARRANTES&lt;/b&gt; — Especialista de IIEE e IICC&lt;br/&gt;&lt;b&gt;CARLOS BELLEDONNE&lt;/b&gt; — Especialista de HVAC y Mecánicas&lt;br/&gt;&lt;b&gt;HUMBERTO BIEVERACH&lt;/b&gt; — Especialista de IISS&lt;br/&gt;&lt;b&gt;EDUARDO POSTIGO&lt;/b&gt; — Especialista de Equipamiento Médico&lt;br/&gt;&lt;b&gt;PAMELA WU&lt;/b&gt; — Especialista de Estructuras" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;fontStyle=0;fillColor=#F8FAFC;strokeColor=#CBD5E1;fontColor=#374151;" vertex="1" parent="1">
+        <mxCell id="especialistas" value="&lt;b&gt;KATHERINE SIHUAY&lt;/b&gt; — Especialista de Arquitectura&lt;br/&gt;&lt;b&gt;JUAN BARRANTES&lt;/b&gt; — Especialista de IIEE e IICC&lt;br/&gt;&lt;b&gt;CARLOS BELLEDONNE&lt;/b&gt; — Especialista de HVAC y Mecánicas&lt;br/&gt;&lt;b&gt;HUMBERTO BIEVERACH&lt;/b&gt; — Especialista de IISS&lt;br/&gt;&lt;b&gt;EDUARDO POSTIGO&lt;/b&gt; — Especialista de Equipamiento Médico&lt;br/&gt;&lt;b&gt;PAMELA WU&lt;/b&gt; — Especialista de Estructuras" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;fontStyle=1;fillColor=#166534;strokeColor=#16A34A;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="820" y="248" width="240" height="122" as="geometry" />
         </mxCell>
 
@@ -110,53 +110,53 @@
         
 
         
-        <mxCell id="ea1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="alessandra" target="emision_f2" parent="lane_f2">
+        <mxCell id="ea1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;fontColor=#374151;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="alessandra" target="emision_f2" parent="lane_f2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
 
         
-        <mxCell id="ea2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="luis" target="emision_f1" parent="lane_f1">
+        <mxCell id="ea2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;fontColor=#374151;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="luis" target="emision_f1" parent="lane_f1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
 
         
-        <mxCell id="ea3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="mayra" target="emision_f3" parent="lane_f3">
+        <mxCell id="ea3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;fontColor=#374151;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="mayra" target="emision_f3" parent="lane_f3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
 
         
-        <mxCell id="eb1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3;entryDx=0;entryDy=0;" edge="1" source="emision_f2" target="envio" parent="1">
+        <mxCell id="eb1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;fontColor=#374151;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3;entryDx=0;entryDy=0;" edge="1" source="emision_f2" target="envio" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eb2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="emision_f1" target="envio" parent="1">
+        <mxCell id="eb2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;fontColor=#374151;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="emision_f1" target="envio" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eb3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.7;entryDx=0;entryDy=0;" edge="1" source="emision_f3" target="envio" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-
-        
-        <mxCell id="ec1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="envio" target="aprobacion" parent="1">
+        <mxCell id="eb3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;fontColor=#374151;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.7;entryDx=0;entryDy=0;" edge="1" source="emision_f3" target="envio" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
 
         
-        <mxCell id="ec2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="aprobacion" target="firma" parent="1">
+        <mxCell id="ec1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;fontColor=#374151;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="envio" target="aprobacion" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
 
         
-        <mxCell id="ec3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;" edge="1" source="aprobacion" target="especialistas" parent="1">
+        <mxCell id="ec2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;fontColor=#374151;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="aprobacion" target="firma" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
 
         
-        <mxCell id="ec4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="firma" target="bluebeam" parent="1">
+        <mxCell id="ec3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;fontColor=#374151;" edge="1" source="aprobacion" target="especialistas" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
 
         
-        <mxCell id="ec5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="bluebeam" target="cloud_nota" parent="1">
+        <mxCell id="ec4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;fontColor=#374151;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="firma" target="bluebeam" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        
+        <mxCell id="ec5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;fontColor=#374151;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="bluebeam" target="cloud_nota" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
 

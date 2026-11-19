@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ct2SJy03ZVjGMMu4Juwc-36" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startFill=1;horizontal=0;startSize=20;html=1;fillColor=#B45309;strokeColor=#B45309;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=10;fontStyle=1;swimlaneLine=1;" value="SUPERVISIÓN" vertex="1">
+        <mxCell id="Ct2SJy03ZVjGMMu4Juwc-36" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startFill=0;horizontal=0;startSize=20;html=1;swimlaneLine=1;fillColor=#FFFBEB;strokeColor=#D97706;strokeWidth=1.5;fontColor=#78350F;fontFamily=Helvetica;fontSize=10;fontStyle=1;" value="SUPERVISIÓN" vertex="1">
           <mxGeometry height="97.68295961119487" width="590.55" x="90.94" y="1292.1185201944024" as="geometry" />
         </mxCell>
-        <mxCell id="Ct2SJy03ZVjGMMu4Juwc-37" parent="Ct2SJy03ZVjGMMu4Juwc-36" style="swimlane;startFill=1;swimlaneLine=1;startSize=20;horizontal=0;html=1;fillColor=#F1F5F9;strokeColor=#CBD5E1;fontColor=#334155;fontFamily=Helvetica;fontSize=9;fontStyle=0;" value="EQUIPO SC" vertex="1">
+        <mxCell id="Ct2SJy03ZVjGMMu4Juwc-37" parent="Ct2SJy03ZVjGMMu4Juwc-36" style="swimlane;startFill=1;swimlaneLine=1;startSize=20;horizontal=0;html=1;fillColor=#6B7280;strokeColor=#CBD5E1;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=9;fontStyle=1;" value="EQUIPO SC" vertex="1">
           <mxGeometry height="97.68295961119487" width="570.55" x="20" as="geometry" />
         </mxCell>
         <mxCell id="nodPrOztiN8DvN_xhTAY-92" edge="1" parent="Ct2SJy03ZVjGMMu4Juwc-37" source="nodPrOztiN8DvN_xhTAY-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#64748B;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;fontStyle=0;fontColor=#475569;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nodPrOztiN8DvN_xhTAY-87">
@@ -62,10 +62,10 @@
         <mxCell id="0MuWfzeN9np4EICy7Ibi-13" parent="Ct2SJy03ZVjGMMu4Juwc-37" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=8;fontFamily=Helvetica;fontColor=#475569;" value="SI" vertex="1">
           <mxGeometry height="30" width="22.31" x="151.26" y="67.68295961119487" as="geometry" />
         </mxCell>
-        <mxCell id="Ct2SJy03ZVjGMMu4Juwc-40" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startFill=1;horizontal=0;startSize=20;html=1;fillColor=#1D4ED8;strokeColor=#1D4ED8;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=10;fontStyle=1;swimlaneLine=1;" value="OFICINA TECNICA" vertex="1">
+        <mxCell id="Ct2SJy03ZVjGMMu4Juwc-40" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startFill=0;horizontal=0;startSize=20;html=1;swimlaneLine=1;fillColor=#EFF6FF;strokeColor=#2563EB;strokeWidth=1.5;fontColor=#1E3A5F;fontFamily=Helvetica;fontSize=10;fontStyle=1;" value="OFICINA TECNICA" vertex="1">
           <mxGeometry height="195.12317747611866" width="590.55" x="92.13" y="1494.971806602983" as="geometry" />
         </mxCell>
-        <mxCell id="Ct2SJy03ZVjGMMu4Juwc-41" parent="Ct2SJy03ZVjGMMu4Juwc-40" style="swimlane;startFill=1;swimlaneLine=1;startSize=20;horizontal=0;html=1;fillColor=#F1F5F9;strokeColor=#CBD5E1;fontColor=#334155;fontFamily=Helvetica;fontSize=9;fontStyle=0;" value="CONT. DOC." vertex="1">
+        <mxCell id="Ct2SJy03ZVjGMMu4Juwc-41" parent="Ct2SJy03ZVjGMMu4Juwc-40" style="swimlane;startFill=1;swimlaneLine=1;startSize=20;horizontal=0;html=1;fillColor=#6D28D9;strokeColor=#CBD5E1;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=9;fontStyle=1;" value="CONT. DOC." vertex="1">
           <mxGeometry height="95.12317747611866" width="570.55" x="20" as="geometry" />
         </mxCell>
         <mxCell id="KeGs3-7ckq0Go551yipU-18" parent="Ct2SJy03ZVjGMMu4Juwc-41" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=9;fontStyle=0;fillColor=#FFFFFF;strokeColor=#94A3B8;strokeWidth=1;fontColor=#1E293B;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;REGISTRO Y ENVIO DE CARTA&lt;/font&gt;" vertex="1">
@@ -92,7 +92,7 @@
         <mxCell id="nodPrOztiN8DvN_xhTAY-94" parent="Ct2SJy03ZVjGMMu4Juwc-41" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=9;fontStyle=0;fillColor=#FFFFFF;strokeColor=#94A3B8;strokeWidth=1;fontColor=#1E293B;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;INFORMA A&amp;nbsp; TODAS LAS AREAS DEL PROYECTO&lt;/font&gt;" vertex="1">
           <mxGeometry height="29.52" width="99.14" x="460.7" y="59.328193397017" as="geometry" />
         </mxCell>
-        <mxCell id="Ct2SJy03ZVjGMMu4Juwc-43" parent="Ct2SJy03ZVjGMMu4Juwc-40" style="swimlane;startFill=1;swimlaneLine=1;startSize=20;horizontal=0;html=1;fillColor=#F1F5F9;strokeColor=#CBD5E1;fontColor=#334155;fontFamily=Helvetica;fontSize=9;fontStyle=0;" value="JOT" vertex="1">
+        <mxCell id="Ct2SJy03ZVjGMMu4Juwc-43" parent="Ct2SJy03ZVjGMMu4Juwc-40" style="swimlane;startFill=1;swimlaneLine=1;startSize=20;horizontal=0;html=1;fillColor=#6B7280;strokeColor=#CBD5E1;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=9;fontStyle=1;" value="JOT" vertex="1">
           <mxGeometry height="100" width="570.55" x="20" y="95.12317747611866" as="geometry" />
         </mxCell>
         <mxCell id="KeGs3-7ckq0Go551yipU-8" parent="Ct2SJy03ZVjGMMu4Juwc-43" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=9;fontStyle=0;fillColor=#FFFFFF;strokeColor=#94A3B8;strokeWidth=1;fontColor=#1E293B;" value="REQUIERE ENVIAR CARTA" vertex="1">
@@ -107,10 +107,10 @@
         <mxCell id="KeGs3-7ckq0Go551yipU-36" parent="1" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=9;fontStyle=0;fillColor=#FFFFFF;strokeColor=#94A3B8;strokeWidth=1;fontColor=#1E293B;" value="IMPLEMENTAR METODOLOGIAS COLOBORATVIVAS" vertex="1">
           <mxGeometry height="910.62" width="61.02" x="686.22" y="1294.49" as="geometry" />
         </mxCell>
-        <mxCell id="KeGs3-7ckq0Go551yipU-51" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startFill=1;horizontal=0;startSize=20;html=1;fillColor=#15803D;strokeColor=#15803D;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=10;fontStyle=1;swimlaneLine=1;" value="CONSTRUCCIÓN" vertex="1">
+        <mxCell id="KeGs3-7ckq0Go551yipU-51" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startFill=0;horizontal=0;startSize=20;html=1;swimlaneLine=1;fillColor=#F0FDF4;strokeColor=#16A34A;strokeWidth=1.5;fontColor=#14532D;fontFamily=Helvetica;fontSize=10;fontStyle=1;" value="CONSTRUCCIÓN" vertex="1">
           <mxGeometry height="95.12" width="590.55" x="92.13" y="1694.51" as="geometry" />
         </mxCell>
-        <mxCell id="KeGs3-7ckq0Go551yipU-52" parent="KeGs3-7ckq0Go551yipU-51" style="swimlane;startFill=1;swimlaneLine=1;startSize=20;horizontal=0;html=1;fillColor=#F1F5F9;strokeColor=#CBD5E1;fontColor=#334155;fontFamily=Helvetica;fontSize=9;fontStyle=0;" value="" vertex="1">
+        <mxCell id="KeGs3-7ckq0Go551yipU-52" parent="KeGs3-7ckq0Go551yipU-51" style="swimlane;startFill=1;swimlaneLine=1;startSize=20;horizontal=0;html=1;fillColor=#6B7280;strokeColor=#CBD5E1;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=9;fontStyle=1;" value="" vertex="1">
           <mxGeometry height="95.12" width="570.55" x="20" as="geometry" />
         </mxCell>
         <mxCell id="nodPrOztiN8DvN_xhTAY-130" edge="1" parent="KeGs3-7ckq0Go551yipU-52" source="KeGs3-7ckq0Go551yipU-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#64748B;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;fontStyle=0;fontColor=#475569;">
@@ -127,7 +127,7 @@
         <mxCell id="KeGs3-7ckq0Go551yipU-70" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;whiteSpace=wrap;fontFamily=Helvetica;strokeWidth=0.3937;fontColor=#475569;" value="FLUJOGRAMA: CARTAS ENVIADAS Y RECIBIDAS DEL CLIENTE - SUPERVISIÓN&amp;nbsp;&amp;nbsp;" vertex="1">
           <mxGeometry height="27.17" width="653.14" x="92.13" y="1262.6" as="geometry" />
         </mxCell>
-        <mxCell id="nodPrOztiN8DvN_xhTAY-1" parent="1" style="swimlane;startFill=1;swimlaneLine=1;startSize=20;horizontal=0;html=1;fillColor=#F1F5F9;strokeColor=#CBD5E1;fontColor=#334155;fontFamily=Helvetica;fontSize=9;fontStyle=0;" value="CONTROL DE PROYECTOS" vertex="1">
+        <mxCell id="nodPrOztiN8DvN_xhTAY-1" parent="1" style="swimlane;startFill=1;swimlaneLine=1;startSize=20;horizontal=0;html=1;fillColor=#6B7280;strokeColor=#CBD5E1;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=9;fontStyle=1;" value="CONTROL DE PROYECTOS" vertex="1">
           <mxGeometry height="95.12" width="588.18" x="93.31" y="1894.21" as="geometry" />
         </mxCell>
         <mxCell id="nodPrOztiN8DvN_xhTAY-128" edge="1" parent="nodPrOztiN8DvN_xhTAY-1" source="nodPrOztiN8DvN_xhTAY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#64748B;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;fontStyle=0;fontColor=#475569;">
@@ -141,10 +141,10 @@
         <mxCell id="nodPrOztiN8DvN_xhTAY-99" parent="nodPrOztiN8DvN_xhTAY-1" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=9;fontStyle=0;fillColor=#FFFFFF;strokeColor=#94A3B8;strokeWidth=1;fontColor=#1E293B;" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;RECIBE CARTA DE SUPERVISIÓN&amp;nbsp;&lt;/span&gt;" vertex="1">
           <mxGeometry height="29.52" width="99.14" x="432.09999999999997" y="38.57999999999993" as="geometry" />
         </mxCell>
-        <mxCell id="nodPrOztiN8DvN_xhTAY-10" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startFill=1;horizontal=0;startSize=20;html=1;fillColor=#1E3A5F;strokeColor=#1E3A5F;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=10;fontStyle=1;swimlaneLine=1;" value="CALIDAD" vertex="1">
+        <mxCell id="nodPrOztiN8DvN_xhTAY-10" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startFill=0;horizontal=0;startSize=20;html=1;swimlaneLine=1;fillColor=#F0F6FF;strokeColor=#2563EB;strokeWidth=1.5;fontColor=#1E3A5F;fontFamily=Helvetica;fontSize=10;fontStyle=1;" value="CALIDAD" vertex="1">
           <mxGeometry height="95.12" width="590.55" x="93" y="1795" as="geometry" />
         </mxCell>
-        <mxCell id="nodPrOztiN8DvN_xhTAY-11" parent="nodPrOztiN8DvN_xhTAY-10" style="swimlane;startFill=1;swimlaneLine=1;startSize=20;horizontal=0;html=1;fillColor=#F1F5F9;strokeColor=#CBD5E1;fontColor=#334155;fontFamily=Helvetica;fontSize=9;fontStyle=0;" value="" vertex="1">
+        <mxCell id="nodPrOztiN8DvN_xhTAY-11" parent="nodPrOztiN8DvN_xhTAY-10" style="swimlane;startFill=1;swimlaneLine=1;startSize=20;horizontal=0;html=1;fillColor=#6B7280;strokeColor=#CBD5E1;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=9;fontStyle=1;" value="" vertex="1">
           <mxGeometry height="95.12" width="570.55" x="20" as="geometry" />
         </mxCell>
         <mxCell id="nodPrOztiN8DvN_xhTAY-129" edge="1" parent="nodPrOztiN8DvN_xhTAY-11" source="nodPrOztiN8DvN_xhTAY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#64748B;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;fontStyle=0;fontColor=#475569;">
@@ -158,7 +158,7 @@
         <mxCell id="nodPrOztiN8DvN_xhTAY-98" parent="nodPrOztiN8DvN_xhTAY-11" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=9;fontStyle=0;fillColor=#FFFFFF;strokeColor=#94A3B8;strokeWidth=1;fontColor=#1E293B;" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;RECIBE CARTA DE SUPERVISIÓN&amp;nbsp;&lt;/span&gt;" vertex="1">
           <mxGeometry height="29.52" width="99.14" x="420.59000000000003" y="35.67000000000007" as="geometry" />
         </mxCell>
-        <mxCell id="nodPrOztiN8DvN_xhTAY-20" parent="1" style="swimlane;startFill=1;swimlaneLine=1;startSize=20;horizontal=0;html=1;fillColor=#F1F5F9;strokeColor=#CBD5E1;fontColor=#334155;fontFamily=Helvetica;fontSize=9;fontStyle=0;" value="ADMI NISTRAICÓN DE CONTRATOS" vertex="1">
+        <mxCell id="nodPrOztiN8DvN_xhTAY-20" parent="1" style="swimlane;startFill=1;swimlaneLine=1;startSize=20;horizontal=0;html=1;fillColor=#6B7280;strokeColor=#CBD5E1;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=9;fontStyle=1;" value="ADMI NISTRAICÓN DE CONTRATOS" vertex="1">
           <mxGeometry height="95.12" width="588.18" x="95" y="2112" as="geometry" />
         </mxCell>
         <mxCell id="nodPrOztiN8DvN_xhTAY-23" parent="nodPrOztiN8DvN_xhTAY-20" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=9;fontStyle=1;fillColor=#FEE2E2;strokeColor=#DC2626;strokeWidth=1.5;fontColor=#991B1B;" value="FIN" vertex="1">
@@ -220,7 +220,7 @@
         <mxCell id="nodPrOztiN8DvN_xhTAY-124" parent="nodPrOztiN8DvN_xhTAY-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=8;fontFamily=Helvetica;fontColor=#475569;" value="SI" vertex="1">
           <mxGeometry height="30" width="22.31" x="357.36" y="45.01999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="nodPrOztiN8DvN_xhTAY-30" parent="1" style="swimlane;startFill=1;swimlaneLine=1;startSize=20;horizontal=0;html=1;fillColor=#F1F5F9;strokeColor=#CBD5E1;fontColor=#334155;fontFamily=Helvetica;fontSize=9;fontStyle=0;" value="GERENCIA" vertex="1">
+        <mxCell id="nodPrOztiN8DvN_xhTAY-30" parent="1" style="swimlane;startFill=1;swimlaneLine=1;startSize=20;horizontal=0;html=1;fillColor=#6B7280;strokeColor=#CBD5E1;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=9;fontStyle=1;" value="GERENCIA" vertex="1">
           <mxGeometry height="112.6749840791015" width="588.18" x="93.31" y="1993.21" as="geometry" />
         </mxCell>
         <mxCell id="nodPrOztiN8DvN_xhTAY-48" edge="1" parent="nodPrOztiN8DvN_xhTAY-30" source="nodPrOztiN8DvN_xhTAY-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#64748B;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;fontStyle=0;fontColor=#475569;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nodPrOztiN8DvN_xhTAY-46">
@@ -279,10 +279,10 @@
         <mxCell id="nodPrOztiN8DvN_xhTAY-108" edge="1" parent="1" source="nodPrOztiN8DvN_xhTAY-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#64748B;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;fontStyle=0;fontColor=#475569;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nodPrOztiN8DvN_xhTAY-101">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0MuWfzeN9np4EICy7Ibi-1" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startFill=1;horizontal=0;startSize=20;html=1;fillColor=#1E3A5F;strokeColor=#1E3A5F;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=10;fontStyle=1;swimlaneLine=1;" value="CONSORCIO" vertex="1">
+        <mxCell id="0MuWfzeN9np4EICy7Ibi-1" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startFill=0;horizontal=0;startSize=20;html=1;swimlaneLine=1;fillColor=#F0F6FF;strokeColor=#2563EB;strokeWidth=1.5;fontColor=#1E3A5F;fontFamily=Helvetica;fontSize=10;fontStyle=1;" value="CONSORCIO" vertex="1">
           <mxGeometry height="95.12" width="590.55" x="92.13" y="1394.8799999999999" as="geometry" />
         </mxCell>
-        <mxCell id="0MuWfzeN9np4EICy7Ibi-2" parent="0MuWfzeN9np4EICy7Ibi-1" style="swimlane;startFill=1;swimlaneLine=1;startSize=20;horizontal=0;html=1;fillColor=#F1F5F9;strokeColor=#CBD5E1;fontColor=#334155;fontFamily=Helvetica;fontSize=9;fontStyle=0;" value="EQUIPO SC" vertex="1">
+        <mxCell id="0MuWfzeN9np4EICy7Ibi-2" parent="0MuWfzeN9np4EICy7Ibi-1" style="swimlane;startFill=1;swimlaneLine=1;startSize=20;horizontal=0;html=1;fillColor=#6B7280;strokeColor=#CBD5E1;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=9;fontStyle=1;" value="EQUIPO SC" vertex="1">
           <mxGeometry height="95.12" width="570.55" x="20" as="geometry" />
         </mxCell>
         <mxCell id="0MuWfzeN9np4EICy7Ibi-3" edge="1" parent="0MuWfzeN9np4EICy7Ibi-2" source="0MuWfzeN9np4EICy7Ibi-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#64748B;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;fontStyle=0;fontColor=#475569;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="0MuWfzeN9np4EICy7Ibi-15">

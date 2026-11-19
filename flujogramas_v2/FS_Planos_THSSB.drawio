@@ -10,12 +10,12 @@
         
 
         
-        <mxCell id="swim_main" value="RESPONSABLES POR FRENTE" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startFill=1;startSize=30;html=1;fillColor=#1E3A5F;strokeColor=#1E3A5F;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=10;fontStyle=1;swimlaneLine=1;" vertex="1" parent="1">
+        <mxCell id="swim_main" value="RESPONSABLES POR FRENTE" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startFill=0;startSize=30;html=1;swimlaneLine=1;fillColor=#F0F6FF;strokeColor=#2563EB;strokeWidth=1.5;fontColor=#1E3A5F;fontFamily=Helvetica;fontSize=10;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="25" width="410" height="315" as="geometry" />
         </mxCell>
 
         
-        <mxCell id="lane_f2" value="FRENTE 2" style="swimlane;startFill=1;swimlaneLine=1;startSize=0;horizontal=0;html=1;fillColor=#F1F5F9;strokeColor=#CBD5E1;fontColor=#334155;fontFamily=Helvetica;fontSize=9;fontStyle=0;" vertex="1" parent="swim_main">
+        <mxCell id="lane_f2" value="FRENTE 2" style="swimlane;startFill=1;swimlaneLine=1;startSize=0;horizontal=0;html=1;fillColor=#6B7280;strokeColor=#CBD5E1;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=9;fontStyle=1;" vertex="1" parent="swim_main">
           <mxGeometry y="30" width="410" height="95" as="geometry" />
         </mxCell>
         <mxCell id="alessandra" value="ALESSANDRA FERNANDEZ" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=9;fillColor=#FFFFFF;strokeColor=#CBD5E1;fontColor=#334155;strokeWidth=1;" vertex="1" parent="lane_f2">
@@ -26,7 +26,7 @@
         </mxCell>
 
         
-        <mxCell id="lane_f1" value="FRENTE 1" style="swimlane;startFill=1;swimlaneLine=1;startSize=0;horizontal=0;html=1;fillColor=#F1F5F9;strokeColor=#CBD5E1;fontColor=#334155;fontFamily=Helvetica;fontSize=9;fontStyle=0;" vertex="1" parent="swim_main">
+        <mxCell id="lane_f1" value="FRENTE 1" style="swimlane;startFill=1;swimlaneLine=1;startSize=0;horizontal=0;html=1;fillColor=#6B7280;strokeColor=#CBD5E1;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=9;fontStyle=1;" vertex="1" parent="swim_main">
           <mxGeometry y="125" width="410" height="95" as="geometry" />
         </mxCell>
         <mxCell id="luis" value="LUIS BUSTAMANTE" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=9;fillColor=#FFFFFF;strokeColor=#CBD5E1;fontColor=#334155;strokeWidth=1;" vertex="1" parent="lane_f1">
@@ -37,7 +37,7 @@
         </mxCell>
 
         
-        <mxCell id="lane_f3" value="FRENTE 3" style="swimlane;startFill=1;swimlaneLine=1;startSize=0;horizontal=0;html=1;fillColor=#F1F5F9;strokeColor=#CBD5E1;fontColor=#334155;fontFamily=Helvetica;fontSize=9;fontStyle=0;" vertex="1" parent="swim_main">
+        <mxCell id="lane_f3" value="FRENTE 3" style="swimlane;startFill=1;swimlaneLine=1;startSize=0;horizontal=0;html=1;fillColor=#6B7280;strokeColor=#CBD5E1;fontColor=#FFFFFF;fontFamily=Helvetica;fontSize=9;fontStyle=1;" vertex="1" parent="swim_main">
           <mxGeometry y="220" width="410" height="95" as="geometry" />
         </mxCell>
         <mxCell id="mayra" value="MAYRA LOAYZA" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=9;fillColor=#FFFFFF;strokeColor=#CBD5E1;fontColor=#334155;strokeWidth=1;" vertex="1" parent="lane_f3">

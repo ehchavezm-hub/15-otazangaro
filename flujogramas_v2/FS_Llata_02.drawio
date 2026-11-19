@@ -165,57 +165,57 @@
         
 
         
-        <mxCell id="e1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#64748B;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;fontStyle=0;fontColor=#475569;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="esp_header" target="conciliado" parent="1">
+        <mxCell id="e1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#64748B;strokeWidth=1;endArrow=open;endFill=0;endSize=4;fontFamily=Helvetica;fontSize=7;fontStyle=0;fontColor=#475569;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="esp_header" target="conciliado" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
 
         
-        <mxCell id="e2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#64748B;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;fontStyle=0;fontColor=#475569;" edge="1" source="cosapi" target="supervision" parent="1">
+        <mxCell id="e2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#64748B;strokeWidth=1;endArrow=open;endFill=0;endSize=4;fontFamily=Helvetica;fontSize=7;fontStyle=0;fontColor=#475569;" edge="1" source="cosapi" target="supervision" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
 
         
-        <mxCell id="e3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#64748B;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;fontStyle=0;fontColor=#475569;" edge="1" source="supervision" target="conciliado" parent="1">
+        <mxCell id="e3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#64748B;strokeWidth=1;endArrow=open;endFill=0;endSize=4;fontFamily=Helvetica;fontSize=7;fontStyle=0;fontColor=#475569;" edge="1" source="supervision" target="conciliado" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
 
         
-        <mxCell id="e4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#64748B;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;fontStyle=0;fontColor=#475569;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="conciliado" target="control_doc" parent="1">
+        <mxCell id="e4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#64748B;strokeWidth=1;endArrow=open;endFill=0;endSize=4;fontFamily=Helvetica;fontSize=7;fontStyle=0;fontColor=#475569;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="conciliado" target="control_doc" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
 
         
-        <mxCell id="e5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#64748B;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;fontStyle=0;fontColor=#475569;" edge="1" source="control_doc" target="sheila" parent="1">
+        <mxCell id="e5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#64748B;strokeWidth=1;endArrow=open;endFill=0;endSize=4;fontFamily=Helvetica;fontSize=7;fontStyle=0;fontColor=#475569;" edge="1" source="control_doc" target="sheila" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
 
         
-        <mxCell id="e6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#64748B;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;fontStyle=0;fontColor=#475569;" edge="1" source="control_doc" target="beatriz" parent="1">
+        <mxCell id="e6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#64748B;strokeWidth=1;endArrow=open;endFill=0;endSize=4;fontFamily=Helvetica;fontSize=7;fontStyle=0;fontColor=#475569;" edge="1" source="control_doc" target="beatriz" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
 
         
-        <mxCell id="e7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#64748B;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;fontStyle=0;fontColor=#475569;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="control_doc" target="especialistas_dist" parent="1">
+        <mxCell id="e7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#64748B;strokeWidth=1;endArrow=open;endFill=0;endSize=4;fontFamily=Helvetica;fontSize=7;fontStyle=0;fontColor=#475569;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="control_doc" target="especialistas_dist" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
 
         
-        <mxCell id="e8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#64748B;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;fontStyle=0;fontColor=#475569;" edge="1" source="especialistas_dist" target="pc_serv" parent="1">
+        <mxCell id="e8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#64748B;strokeWidth=1;endArrow=open;endFill=0;endSize=4;fontFamily=Helvetica;fontSize=7;fontStyle=0;fontColor=#475569;" edge="1" source="especialistas_dist" target="pc_serv" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
 
         
-        <mxCell id="e9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#64748B;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;fontStyle=0;fontColor=#475569;" edge="1" source="especialistas_dist" target="mod" parent="1">
+        <mxCell id="e9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#64748B;strokeWidth=1;endArrow=open;endFill=0;endSize=4;fontFamily=Helvetica;fontSize=7;fontStyle=0;fontColor=#475569;" edge="1" source="especialistas_dist" target="mod" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
 
         
-        <mxCell id="e10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#64748B;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;fontStyle=0;fontColor=#475569;" edge="1" source="especialistas_dist" target="coord_bim" parent="1">
+        <mxCell id="e10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#64748B;strokeWidth=1;endArrow=open;endFill=0;endSize=4;fontFamily=Helvetica;fontSize=7;fontStyle=0;fontColor=#475569;" edge="1" source="especialistas_dist" target="coord_bim" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
 
         
-        <mxCell id="e11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#64748B;strokeWidth=1.5;endArrow=block;endFill=1;endSize=5;fontFamily=Helvetica;fontSize=8;fontStyle=0;fontColor=#475569;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="coord_bim" target="bim_header" parent="1">
+        <mxCell id="e11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#64748B;strokeWidth=1;endArrow=open;endFill=0;endSize=4;fontFamily=Helvetica;fontSize=7;fontStyle=0;fontColor=#475569;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="coord_bim" target="bim_header" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
 
